@@ -1,0 +1,7 @@
+langchain
+transformers
+sentence-transformers
+pymupdf
+markdown
+torch
+langchain-community
